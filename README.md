@@ -1,5 +1,5 @@
 # video-amv-example
-video-amv-example
+The examples of AMV video file
 
 ## files
   * big_buck_bunny_240p.amv
