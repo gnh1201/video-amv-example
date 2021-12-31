@@ -10,6 +10,9 @@ The examples of AMV video file
   * 01_llama_drama_240p.amv
   * 02_gran_dillama_240p.amv
   * 03_caminandes_llamigos_240p.amv
+  * ed_240p.amv
+  * glass_240p.amv
+  * la_chute_d_une_plume_240p.amv
 
 ## download link
 https://drive.google.com/drive/folders/1oP4Blr10--mzeGohFScXymERnuqmQLIY?usp=sharing
