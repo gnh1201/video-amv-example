@@ -13,6 +13,8 @@ The examples of AMV video file
   * ed_240p.amv
   * glass_240p.amv
   * la_chute_d_une_plume_240p.amv
+  * valkaama_320p.amv
+  * route_66_an_american_baddream_320p.amv
 
 ## Flags (FFMPEG)
 
