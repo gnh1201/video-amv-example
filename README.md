@@ -19,7 +19,7 @@ The examples of AMV video file
 ## Flags (FFMPEG)
 
 ```
-ffmpeg -i input.mov -vf crop=ih/3*4:ih,scale=320:240 -ac 1 -ar 22050 -r 25 -block_size 882 -filter:a "volume=5.0" output.amv
+ffmpeg -i [input] -vf crop=ih/3*4:ih,scale=320:240 -ac 1 -ar 22050 -r 25 -block_size 882 [-filter:a "volume=5.0"] [output]
 ```
 
 ## Download link
